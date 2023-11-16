@@ -20,7 +20,7 @@ conda activate portfolio
 pip install -r requirements.txt
 ```
 
-## Training steps
+## Training Steps
 ### Run the Training Script
 ```
 python portfolio_opt_experiment.py
